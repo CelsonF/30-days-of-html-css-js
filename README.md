@@ -1,4 +1,4 @@
-# 30-days-of-css
+# 30-days of HTML + CSS + JS 
 
 Repository for solution challenger of HTML + CSS + JS - in thirty days.
 
@@ -7,8 +7,8 @@ Repository for solution challenger of HTML + CSS + JS - in thirty days.
 
 - Fork the project.
 
-- Utility git clone. 
+- Use git clone. 
 
 - Create the branch named csschalenger. 
 
-- Create your directory with your name.
+- Create directory with your name.
