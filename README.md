@@ -10,15 +10,15 @@ Repository for solutions challenge of HTML + CSS + JS - in thirty days.
 
 ## Instructions 
 
-- Fork the project.
+1. Fork the project.
 
-- Use `git clone` your forked.
+2. Use `git clone` your forked.
 
-- Create the branch `git branch -c `  named `csschallenge`. 
+3. Create the branch `git branch -c `  named `csschallenge`. 
 
-- Alter the branch `git checkout csschallenge`.
+4. Alter the branch `git checkout csschallenge`.
 
-- Create directory with your name , following the example - root/yourdirectory/Challenge_x.
+5. Create directory with your name , following the example - root/yourdirectory/Challenge_x.
 
 
 ### Challenges
