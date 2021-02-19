@@ -18,12 +18,12 @@ Improve skills and increase your knowledge in web technologies.
 ## Inspirations
 Online Tutorials - Creative Creations - DarkCode - CodingNepal - Easy Tutorials
 
+## :page_with_curl: Rules
+
 - Create one project for day.
 - Shared the projects in social midias.
 - Create git hub pages to view your projects 
 - The project must be done by 11:59PM 
-
-## Rules
 
 ## Requirements
 
