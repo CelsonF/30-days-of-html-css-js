@@ -1,8 +1,12 @@
 # 30-days of HTML + CSS + JS 
 
-![Logo do HTML](html-5.svg = 90x)  ![Logo do CSS](css-3.svg = 90x) ![Logo do JAVA SCRIPT](javascript.svg = 90x)
+<img src="html-5.svg" alt="HTML 5" width="90" height="90" >
+<img src="css-3.svg" alt="CSS 3" width="90" height="90" >
+<img src="javascript.svg" alt="JAVA SCRIPT" width="90" height="90" >
 
-Repository for solutions challenge of HTML + CSS + JS - in thirty days.
+
+Hello my Friends, this repository for solutions challenge of HTML + CSS + JS - in thirty days.
+This Challenge aims to help you improve your codding skills by doing mini daily projects.
 
 ## Requirements
 
