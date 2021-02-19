@@ -1,6 +1,6 @@
 # 30-days of HTML + CSS + JS 
 
-![Logo do HTML](html-5.svg)  ![Logo do CSS](css-3.svg) ![Logo do JAVA SCRIPT](javascript.svg)
+![Logo do HTML](html-5.svg = 90px)  ![Logo do CSS](css-3.svg = 90px) ![Logo do JAVA SCRIPT](javascript.svg = 90px)
 
 Repository for solutions challenge of HTML + CSS + JS - in thirty days.
 
