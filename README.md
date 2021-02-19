@@ -1,8 +1,10 @@
 # 30-days of HTML + CSS + JS 
 
+<div style="display:flex;flex-direction:row;">
 <img src="html-5.svg" alt="HTML 5" width="90" height="90" >
 <img src="css-3.svg" alt="CSS 3" width="90" height="90" >
 <img src="javascript.svg" alt="JAVA SCRIPT" width="90" height="90" >
+</div> 
 
 
 Hello my Friends, this repository for solutions challenge of HTML + CSS + JS - in thirty days.
