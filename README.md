@@ -1,14 +1,29 @@
 # 30-days of HTML + CSS + JS 
 
-<div style="margin:0 auto;">
+<div>
 <img src="html-5.svg" alt="HTML 5" width="90" height="90" >
 <img src="css-3.svg" alt="CSS 3" width="90" height="90" >
 <img src="javascript.svg" alt="JAVA SCRIPT" width="90" height="90" >
 </div> 
 
+<br>
+<br>
 
 Hello my Friends, this repository for solutions challenge of HTML + CSS + JS - in thirty days.
 This Challenge aims to help you improve your codding skills by doing mini daily projects.
+
+## The Objetives
+Improve skills and increase your knowledge in web technologies.
+
+## Inspirations
+Online Tutorials - Creative Creations - DarkCode - CodingNepal - Easy Tutorials
+
+- Create one project for day.
+- Shared the projects in social midias.
+- Create git hub pages to view your projects 
+- The project must be done by 11:59PM 
+
+## Rules
 
 ## Requirements
 
