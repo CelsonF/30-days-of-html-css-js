@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Watch Landing Page Design</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <section class="banner">
+        <header>
+            <a href="#" class="logo">Watch</a>
+            <div class="toggle" onclick="toggle();"></div>
+        </header>
+        <div class="content">
+            <div class="contentBx">
+                <h2>Futuro em<br>sua mão</h2>
+                <p> smartwatch que cuida de você. O Galaxy Watch3 combina a produtividade de um smartphone com uma das principais tecnologias de saúde em um dispositivo premium e clássico. Nosso relógio Galaxy mais avançado até agora, o Galaxy Watch3 ajuda
+                    você a gerenciar facilmente sua vida e saúde colocando seu bem-estar no seu pulso.</p>
+                <a href="#">Buy now</a>
+            </div>
+            <div class="imgBx">
+                <img src="./watch.png">
+            </div>
+        </div>
+
+        <ul class="sci">
+            <li>
+                <a href="#"><img src="facebook.png"></a>
+            </li>
+            <li>
+                <a href="#"><img src="twitter.png"></a>
+            </li>
+            <li>
+                <a href="#"><img src="instagram.png"></a>
+            </li>
+        </ul>
+
+        <ul class="menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">about</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Store</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </section>
+
+    <script type="text/javascript">
+        function toggle() {
+            const toggle = document.querySelector('.toggle')
+            const banner = document.querySelector('.banner')
+            toggle.classList.toggle('active')
+            banner.classList.toggle('active')
+        }
+    </script>
+</body>
+
+</html>
