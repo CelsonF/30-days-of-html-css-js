@@ -12,11 +12,17 @@
 Hello my Friends, this repository for solutions challenge of HTML + CSS + JS - in thirty days.
 This Challenge aims to help you improve your codding skills by doing mini daily projects.
 
-## The Objetives
+## :point_right: The Objetives
 Improve skills and increase your knowledge in web technologies.
 
-## Inspirations
-Online Tutorials - Creative Creations - DarkCode - CodingNepal - Easy Tutorials
+## :sparkles: Inspirations
+
+[iiizadora](https://github.com/iiizadora/30-days-CSS)
+
+#### Youtube References Challenges
+
+[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - [CodingNepal](https://www.youtube.com/c/CodingNepal/videos) - [Easy Tutorials](https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA)
+
 
 ## :page_with_curl: Rules
 
