@@ -1,0 +1,174 @@
+@import  url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900');
+
+
+*{
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins',sans-serif;
+}
+
+body {
+    background-color: rgb(44, 44, 44);
+}
+
+header {
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    padding: 1.8rem 5.125rem ;
+}
+
+header .logo {
+    position: relative;
+    color: #FFF;
+    font-weight:bold;
+    font-size: 2em;
+    text-decoration:none;
+}
+
+
+header ul {
+    position: relative;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+}
+
+header ul li {
+    position: relative;
+    list-style-type:none;
+    margin-left: 2rem;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: #FFF;
+    transition: 0.1s;
+}
+
+header ul li a:hover {
+    color: #666;
+    transition: 0.3s;
+}
+
+.banner {
+position: relative;
+width: 100%;
+min-height: 100vh;
+} 
+
+.banner .imgBx  {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.banner .imgBx img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    transition: 0.5s;
+    background-position:center;
+}
+
+.banner .imgBx img.active {
+    opacity: 1;
+    transition-delay: 0.2s;
+}
+
+.controls {
+    position: absolute;
+    top:50%;
+    transform: translateY(-50%);
+    right: 0;
+    top:50%;
+    width: 80px;
+}
+
+.controls li 
+{
+    position:relative;
+    width: 80px;
+    height: 80px;
+    background:#FFF;
+    list-style-type: none;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor:pointer;
+}
+
+.controls li:hover {
+    background:#ffeb3b;
+}
+
+.controls li:before {
+    content:'';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-left: 3px solid #111;
+    border-bottom: 3px solid #111;
+    transform: rotate(45deg);
+}
+
+.controls li:last-child:before 
+{
+transform: rotate(225deg);
+}
+
+
+.contentBx {
+    position: absolute;
+    bottom: 0;
+    max-width: 700px;
+}
+
+.contentBx div {
+    display: none;
+}
+
+.contentBx div.active {
+    display: block;
+    padding:30px 100px;
+    background-color: rgba(0,0,0,0.2);
+}
+
+.contentBx div h2 {
+color: #FFF;
+font-size: 2em;
+}
+
+
+.contentBx div p {
+    color: #FFF;
+    font-size: 1.1em;
+    }
+    
+
+    .contentBx div a {
+        color: #111;
+        font-size: 1.1em;
+        display: inline-block;
+        background-color: #FFF;
+        padding: 10px 30px;
+        margin-top: 10px;
+        font-weight: 500;
+        text-decoration: none;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        }
+        
