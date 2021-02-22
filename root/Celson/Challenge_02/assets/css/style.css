@@ -54,7 +54,7 @@ header ul li a {
 }
 
 header ul li a:hover {
-    color: #666;
+    color: #c5c5c5;
     transition: 0.3s;
 }
 
