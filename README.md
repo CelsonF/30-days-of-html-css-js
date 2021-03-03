@@ -1,4 +1,4 @@
-# 30-days of HTML + CSS + JS 
+# 30 dias de HTML5 + CSS3 + JS 
 
 <div>
 <img src="html-5.svg" alt="HTML 5" width="90" height="90" >
@@ -9,48 +9,47 @@
 <br>
 <br>
 
-Hello my Friends, this repository for solutions challenge of HTML + CSS + JS - in thirty days.
-This Challenge aims to help you improve your codding skills by doing mini daily projects.
+Olá meus amigos, este é um repositorio criado para realizar os desafios de 30 dias de HTML + CSS + JS, estes desafios iram lhes auxiliar a desenvolver e melhorar suas habilidades utilizando os mini projetos.
 
-## :point_right: The Objetives
-Improve skills and increase your knowledge in web technologies.
+## :point_right: O Objetivo
+Melhorar habilidades e conhecimento nas tecnologias web
 
-## :sparkles: Inspirations
+## :sparkles: Inspirações 
 
 [iiizadora](https://github.com/iiizadora/30-days-CSS)
 
-#### Youtube References Challenges
+#### Youtube Referências dos desafios. 
 
 [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - [CodingNepal](https://www.youtube.com/c/CodingNepal/videos) - [Easy Tutorials](https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA)
 
 
-## :page_with_curl: Rules
+## :page_with_curl: Regras
 
-- Create one project for day.
-- Shared the projects in social midias.
-- Create git hub pages to view your projects 
-- The project must be done by 11:59PM 
+- Criar um projeto por dia.
+- Compartilhar eles nas redes sociais.
+- Criar uma git hub pages para visualizar todos eles.
+- O projeto só vale até 23:59. 
 
-## Requirements
+## Requisitos e softwares
 
 - [VS Code](https://code.visualstudio.com/download) 
 
 - [Git](https://git-scm.com/download/win)
 
-## Instructions 
+## Instruções  
 
-1. Fork the project.
+1. Realize o fork do projeto
 
-2. Use `git clone` your forked.
+2. Utilize `git clone` do seu projeto que foi realizado o fork.
 
-3. Create the branch `git branch -c `  named `csschallenge`. 
+3. Abra o diretorio do projeto e crie a branch `git branch -c ` chamada de `csschallenge`. 
 
-4. Alter the branch `git checkout csschallenge`.
+4. Altere para a branch `git checkout csschallenge`.
 
-5. Create directory with your name , following the example - root/yourdirectory/Challenge_x.
+5. Crie seu diretorio com seu nome , seguindo o exemplo - root/yourdirectory/Challenge_x.
 
 
-### Challenges
+### Desafios
 
  - [Challenge 01](https://www.youtube.com/watch?v=9w7itdHcmF8)
  - [Challenge 02](https://www.youtube.com/watch?v=js0fkkzmlv0)
